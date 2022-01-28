@@ -1,1 +1,2 @@
-# new-crop-classification
+# Krishi Mitra
+## Machine learning based web app
